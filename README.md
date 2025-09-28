@@ -1,0 +1,2 @@
+# normaliztion
+feature Scaling - normalization
